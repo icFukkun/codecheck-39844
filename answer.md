@@ -2,6 +2,6 @@
 C++
 
 ## Q2. コードの説明 Code Explanation
-あなたのコードがどのように動作するのか、簡潔に説明してください。
-Write a brief explanation about how your code works here.
+コマンドラインから受け取った文字列を用いて
 
+'Hello 文字列!'と表示する.
